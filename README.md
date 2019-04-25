@@ -1,2 +1,3 @@
-# solemne-1
+# mati
 repositorio de mi codigo del laboratorio de computacion
+## prueba 1
